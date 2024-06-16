@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vbnbTt5m)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15282558&assignment_repo_type=AssignmentRepo)
 # Dev_Setup
 Setup Development Environment
 
@@ -33,6 +35,37 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+Developer Environment Setup
+
+1. Operating System: Windows 11
+- Downloaded from: https://www.microsoft.com/software-download/windows11
+- Installation Date: [Date]
+2. Visual Studio Code
+- Downloaded from: https://code.visualstudio.com/Download
+- Installed Extensions:
+  - Python
+  - Prettier
+  - ESLint
+  - GitLens
+3. Version Control: Git and GitHub
+- Git installed from: https://git-scm.com/download/win
+- GitHub Account: [Username]
+4. Python
+- Downloaded from: https://www.python.org
+- Version: [Python Version]
+
+5. Database: MySQL
+- Downloaded from: https://dev.mysql.com/downloads/windows/installer/5.7.html
+- Configuration:
+  - Root Password: [Password]
+
+6. Virtualization: Docker (Optional)
+- Downloaded from: https://www.docker.com/products/docker-desktop
+
+Troubleshooting
+- [List any issues encountered and their solutions]
+
+ MY CODE FOR REPOSITORY CREATED IS: https://github.com/andanje1/demo.git
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
