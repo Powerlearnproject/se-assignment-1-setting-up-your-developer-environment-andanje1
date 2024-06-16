@@ -35,6 +35,37 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+Developer Environment Setup
+
+1. Operating System: Windows 11
+- Downloaded from: https://www.microsoft.com/software-download/windows11
+- Installation Date: [Date]
+2. Visual Studio Code
+- Downloaded from: https://code.visualstudio.com/Download
+- Installed Extensions:
+  - Python
+  - Prettier
+  - ESLint
+  - GitLens
+3. Version Control: Git and GitHub
+- Git installed from: https://git-scm.com/download/win
+- GitHub Account: [Username]
+4. Python
+- Downloaded from: https://www.python.org
+- Version: [Python Version]
+
+5. Database: MySQL
+- Downloaded from: https://dev.mysql.com/downloads/windows/installer/5.7.html
+- Configuration:
+  - Root Password: [Password]
+
+6. Virtualization: Docker (Optional)
+- Downloaded from: https://www.docker.com/products/docker-desktop
+
+Troubleshooting
+- [List any issues encountered and their solutions]
+
+ MY CODE FOR REPOSITORY CREATED IS: https://github.com/andanje1/demo.git
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
